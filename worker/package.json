@@ -8,8 +8,9 @@
     "dev": "wrangler dev"
   },
   "dependencies": {
-    "@modelcontextprotocol/server": "2.0.0",
-    "agents": "^0.20.0",
+    "@modelcontextprotocol/sdk": "1.30.0",
+    "@modelcontextprotocol/ext-apps": "^1.0.1",
+    "agents": "^0.22.0",
     "zod": "^3.25.76"
   },
   "devDependencies": {
