@@ -8,8 +8,8 @@
     "dev": "wrangler dev"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.17.5",
-    "agents": "^0.2.20",
+    "@modelcontextprotocol/server": "2.0.0",
+    "agents": "^0.20.0",
     "zod": "^3.25.76"
   },
   "devDependencies": {
